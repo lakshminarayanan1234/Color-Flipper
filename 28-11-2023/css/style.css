@@ -1,0 +1,48 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+
+.navbar-brand
+{
+    color: aqua !important;
+    font-size: 2vw;
+}
+
+.current
+{
+font-size: 1.2vw;
+font-weight: 600vw !important;
+color: rgb(17, 0, 255) !important;
+}
+
+.first_heading
+{
+    font-size: 2.5vw;
+    text-transform:capitalize !important;
+    background-color: black;
+    color: white;
+    padding: 1vw 5vw;
+    border-radius: 10px;
+}
+.body_tags
+{
+    margin-top: 20vw;
+}
+.color
+{
+    color: rgb(76, 124, 161);
+}
+.btn-hero
+{
+    width: fit-content;
+    font-size:1.2vw;
+    font-weight: 600;
+    padding: 0.4vw 2.5vw;
+    text-transform:uppercase;
+    border: 3px solid black;
+  
+}
